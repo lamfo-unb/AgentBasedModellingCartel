@@ -1,8 +1,9 @@
-#DONE
+# DONE
 
 Import_dados()
 
-##TODO
+# TODO
 
-Data_prepro
-ML_Classification
+Data_prepro()
+ML_Classification()
+Export_matplotlib()
