@@ -8,9 +8,9 @@ Funções são escritas em: functions.py
 
 Import_dados()
 
-# TODO
-
 Data_prepro()
+
+# TODO
 
 ML_Classification()
 
